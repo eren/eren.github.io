@@ -1,3 +1,13 @@
 # İletişim
 
-Ana olarak yazılı iletişimi tercih etmekteyim. Bana `turkay.eren@gmail.com` adresinden ulaşabilirsiniz.
+## E-posta
+
+<mailto:turkay.eren@gmail.com>
+
+## Github
+
+<https://github.com/eren/>
+
+## Twitter
+
+<https://twitter.com/erenturkay>

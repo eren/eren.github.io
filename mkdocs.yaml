@@ -53,3 +53,6 @@ markdown_extensions:
 
 plugins:
   - social
+
+extra_css:
+  - css/extra.css
