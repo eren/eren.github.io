@@ -1,0 +1,55 @@
+site_name: "Eren Türkay: Anasayfa"
+site_description: "Bilgisayar Bilimleri mezunu olan Eren Türkay'ın web sayfası."
+site_author: Eren Türkay
+site_url: https://sonradanogrendiklerim.com
+
+copyright: Copyright &copy; 2024 Eren Türkay
+
+nav:
+  - Anasayfa: index.md
+  - Resume: ../assets/resume/Eren_Turkay_Resume.pdf
+  - İletişim: iletisim.md
+
+theme:
+  name: material
+  language: tr
+
+  favicon: assets/favicon.png
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    primary: black
+    accent: orange
+
+  features:
+    - navigation.top
+    - navigation.sections
+    - navigation.path
+    - navigation.tabs
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+plugins:
+  - social
