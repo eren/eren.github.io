@@ -10,7 +10,7 @@ gh-deploy:
 	@echo
 
 deploy: gh-deploy
-	git push origin gh-pages:main -f
+	git push origin gh-pages:master -f
 
 commit:
 	git add .
