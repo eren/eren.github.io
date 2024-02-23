@@ -9,7 +9,7 @@ gh-deploy:
 	@echo
 	@echo
 
-deploy: gh-deploy
+deploy: clean gh-deploy
 	git push origin gh-pages:master -f
 
 commit:
