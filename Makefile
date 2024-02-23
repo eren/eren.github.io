@@ -11,6 +11,7 @@ gh-deploy:
 
 deploy: gh-deploy
 	git push origin gh-pages:master -f
+	@echo
 	git push origin gh-pages:main -f
 
 commit:
