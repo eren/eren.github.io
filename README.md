@@ -1,4 +1,4 @@
-eren.github.com
+Eren Türkay: Anasayfa
 ===============
 
-Github page.
+MkDocs kullanılarak geliştirilmiş <erenturkay.com> ana sayfası.
