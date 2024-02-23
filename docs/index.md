@@ -1,4 +1,7 @@
-# Ana Sayfa
+---
+title: Anasayfa
+description: "Eren Türkay'ın web sayfası. #bilgisayar-bilimleri #mühendislik"
+---
 
 Ben Eren Türkay. İlk kod deneyimimi 2005 yıllarında Notepad kullanarak HTML, CSS ve PHP ile edindim.
 Gezegenlerin uyumuyla beraber PCNet, LinuxNet ve Chip dergilerinin verdiği Linux CD'leri ile
