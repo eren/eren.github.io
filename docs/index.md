@@ -17,7 +17,7 @@ ayrı bir sayfam mevcut. Bu yazılara [sonradanogrendiklerim.com][sonradan] adre
 
 ## Hello 👋🏻
 
-I'm Eren Türkay. Unfortunately, this website does not support multi-language. However, I do have
+I'm Eren Türkay. Unfortunately, this website does not support multi-language. However, I do have an
 English resume in PDF format. You can read it at [this address][resume].
 
 [sonradan]: https://sonradanogrendiklerim.com
