@@ -55,4 +55,4 @@ plugins:
   - social
 
 extra_css:
-  - css/extra.css
+  - css/extra.1.css
